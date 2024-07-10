@@ -21,7 +21,6 @@ graphs into survival analyses for use by the wider scientific community.
 
 
 ## Jupyter Notebook explanation
-- `PrepareBIKGBioRelateSubgraphs.ipynb`: to generate BIKG subgraphs including Immune-related gene set with associated pathways; Biorelated causal subgroup; CIViC NSCLC genes with assoicated pathways, etc
 
 - `RobustTestUsingMSKDataset_PrepareEmbedding.ipynb`: to generate patient embedding representation for both training and test.
 
